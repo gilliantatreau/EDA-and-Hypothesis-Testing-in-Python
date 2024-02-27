@@ -13,7 +13,9 @@ This was concluded based on a non-parametric test (Mann Whitney U test) because 
 However, due to the limited size of the data, these findings are particularly implicative of the world at large, and have a rather limited scope. 
 
 ## How to Run Code Locally
-- Run Python Code file using Jupyter Notebook server (such as Anaconda) for Python code
+- Clone repo
+- Go into repository on local device
+- Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
 
 ## Libraries Used
 - pandas
